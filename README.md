@@ -1,4 +1,4 @@
-# Playground
+# Yay Play Ground!
 
 Dashiell Young-Saver. Courses I'm taking this semester:
 - CS107 (obvi)
